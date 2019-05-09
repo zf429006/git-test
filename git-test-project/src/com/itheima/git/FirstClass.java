@@ -13,5 +13,6 @@ public class FirstClass {
     public void test(){
         int i = 20;
         i+=80;
+        System.out.println(i);
     }
 }
