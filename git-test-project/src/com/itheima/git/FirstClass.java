@@ -9,4 +9,9 @@ public class FirstClass {
         System.out.println("提莫队长正在待命");
         System.out.println("你看见过我的小熊吗");
     }
+
+    public void test(){
+        int i = 20;
+        i+=80;
+    }
 }
